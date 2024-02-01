@@ -2,7 +2,7 @@
 ### Julian David Triana Roa, Informacion General😎
 - Estudio ingenieria de sistemas (8vo semestre) en la Escuela Colombiana de Ingenieria Julio Garavito🏛️
 - Tengo 22 años
-  
+  ![image](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/74771189/6286011d-bdaa-4a71-9f64-292d9a213db7)
 
 ### Informacion Adicional Hobbies 🗒️
 - 1.ver series y peliculas
