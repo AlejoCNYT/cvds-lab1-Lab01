@@ -15,3 +15,5 @@
 
 ### Evidencia Punto 3 del lab 1
 
+![Image (6)](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/74771189/b63c2306-f1f5-444b-9b2e-c7e7fa61d92c)
+![Image (7)](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/74771189/13770728-2fd8-49f9-b954-989be67ad652)
