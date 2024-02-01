@@ -1,5 +1,5 @@
 # Hello there!!
-I´m Alejo ⭐️
+I´m *Alejo* ⭐️
 
 
 
@@ -7,8 +7,8 @@ I´m Alejo ⭐️
 
 # About me
 
--   🧑‍🏫 I love Maths!
--   🎥 I enjoy reading, board games and karate.
+-   🧑‍🏫 I love **Maths**!
+-   🎥 I enjoy **reading, board games and karate-do**.
 
 ## Experience
 
