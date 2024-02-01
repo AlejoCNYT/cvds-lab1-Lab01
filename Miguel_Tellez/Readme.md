@@ -4,6 +4,8 @@
 **ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO (8 semestre) ingenieria de sistemas**
 
 *22 años*
+![]
+()
 
 Informacion General
 
@@ -25,3 +27,5 @@ Materias
 Call of duty league <https://www.callofdutyleague.com/en-us/>
 
 # **GIT BRANCHING**
+![]
+()
