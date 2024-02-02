@@ -1,5 +1,5 @@
 # Hello there!!
-I´m *Alejo* ✈
+I´m *Alejo* 🧑🏻‍🚀
 
 
 
@@ -7,11 +7,11 @@ I´m *Alejo* ✈
 
 ## About me
 
--   I ♥️ **programming and** **Maths**!
--   ♣️ I enjoy **reading, board games and karate-do**.
+-   I ❤️‍🔥 **programming and** **Maths**!
+-   I enjoy **reading, board g♣️mes and karate-do 🦖**. 
 
 ## Experience
 
-1. Teaching applied mathematics. 🧑‍🏫
-2. Computer lab monitor.  
+1. 🧮 Teaching applied mathematics. 🏰
+2. 👨‍💻 Computer lab monitor. 
 3. Administrative Assistant. 💱
