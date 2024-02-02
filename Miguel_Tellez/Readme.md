@@ -4,9 +4,10 @@
 **ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO (8 semestre) ingenieria de sistemas**
 
 *22 años*
+
 ![MicrosoftTeams-image](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/77862071/5820964e-f848-4c3e-951b-623b2ca32c17)
 
-Informacion General
+Hobbies
 
 * Jugar video juegos
 * Leer historietas 
