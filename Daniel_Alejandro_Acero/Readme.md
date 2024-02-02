@@ -1,5 +1,5 @@
-# Hello there!!
-I´m *Alejo* 🧑🏻‍🚀
+# Hello there!! 
+I´m *Alejo* ☄️
 
 
 
