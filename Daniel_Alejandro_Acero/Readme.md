@@ -2,8 +2,7 @@
 I´m *Alejo* ☄️
 
 
-
-![image](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:i:/g/personal/daniel_acero_mail_escuelaing_edu_co/EeaJUHU86vxMn9GGkylCpi0BptBnjBs94BRRTko1qX5nOw?e=acSvUm)
+![IMG_20230705_112216](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/89206637/bd8d5e44-370f-443f-8adc-dba9131bad93)
 
 ## About me
 
@@ -18,5 +17,43 @@ I´m *Alejo* ☄️
 
 ## Github
 
-![image](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:i:/g/personal/daniel_acero_mail_escuelaing_edu_co/Eeb9RGoctu1NnOCIh1AGfwEB3BIRhkWAqzGQIiV1AYBTFw?e=BgMizY)
-![image](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:i:/g/personal/daniel_acero_mail_escuelaing_edu_co/ESjQieW3aRpJs9zJ4vMr2GYBSBuTIKWWEneaIDT9FXYjfg?e=B4wrrF)
+![GIT1](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/89206637/9faab0fc-ec3d-424e-a626-181bdb49be38)
+![Captura de pantalla 2024-02-05 055201](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/89206637/5fe82a16-e65a-4bb0-a2ae-255586461058)
+
+## Code 
+
+´
+
+
+program MaximoArray;
+
+const
+    TAMANYO = 5;
+    
+var
+    datos : array[1..TAMANYO] of integer;
+    i : integer;
+    maximo : integer;
+    
+begin
+    datos[1] := 40;
+    datos[2] := 30;
+    datos[3] := 50;
+    datos[4] := 20;
+    datos[5] := 10;
+    
+    maximo := datos[1];
+    for i := 2 to TAMANYO do
+        begin
+            if datos[i] > maximo then
+                maximo := datos[i];
+        end;
+        
+    writeln('El maximo es ', maximo);
+            
+    readln;
+    
+end.
+
+
+´
