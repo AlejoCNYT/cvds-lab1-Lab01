@@ -16,7 +16,7 @@ Trabajo en grupo (3 integrantes):
 Use el comando gitk, - Pregunta: ¿Qué diferencia hay ahora en el historial de cambios en el repositorio?
 PARTE II. - INTRODUCCIÓNGENERAL GIT
 
-Trabajo Individual: 1. Revise la documentación de Git: https://git-scm.com/doc
+Trabajo Individual: 1. Revise la documentación de [GIT](https://www.example.com)
 
 	
 
