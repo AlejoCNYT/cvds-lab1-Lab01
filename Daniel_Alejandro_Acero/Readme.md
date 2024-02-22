@@ -17,7 +17,7 @@ I´m *Alejo* ☄️
 
 ## Github
 
-![id | 1000046581](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/89206637/9faab0fc-ec3d-424e-a626-181bdb49be38)
+![id | 1000046581](https://github.com/AlejoCNYT/cvds-lab1-Lab01/blob/main/Daniel_Alejandro_Acero/principal.png)
 ![Captura de pantalla 2024-02-05 055201](https://github.com/AlejoCNYT/cvds-lab1-Lab01/assets/89206637/5fe82a16-e65a-4bb0-a2ae-255586461058)
 
 ### Carné
