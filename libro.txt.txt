@@ -1,0 +1,16 @@
+----------------------- libro.txt -----------------------
+EL LIBRO MAS FAMOSO DEL MUNDO
+AUTORES:
+
+CAPITULO UNO
+
+CAPITULO DOS
+
+CAPITULO TRES
+---------------------------------------------------------
+feerratas.txt
+----------------------- feerratas.txt -------------------
+FE DE ERRATAS
+
+* El tErmino de la pagima (por lo general) 15 es impreSiso.
+---------------------------------------------------------
