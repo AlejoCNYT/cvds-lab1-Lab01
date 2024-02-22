@@ -1,15 +1,10 @@
 -------------------- libro.txt --------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
-AUTORES: Julian Triana, Daniel Acero, Miguel Tellez
+AUTORES: Miguel Tellez - Julian Triana - Daniel Acero
 
-
-
-
-
-
-*CAPITULO___UNO
+CAPITULO UNO
 
 CAPITULO DOS
 
 CAPITULO TRES
----------------------------------------------------
+---------------------------------------------------------
